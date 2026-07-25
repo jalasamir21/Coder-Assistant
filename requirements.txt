@@ -1,0 +1,13 @@
+streamlit
+streamlit-option-menu
+langchain-groq
+langchain-google-genai
+langchain-core
+langchain-text-splitters
+langchain-huggingface
+langchain-community
+sentence-transformers
+faiss-cpu
+python-dotenv
+reportlab
+requests
